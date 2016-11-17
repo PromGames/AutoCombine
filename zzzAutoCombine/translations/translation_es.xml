@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<!-- Note that 'description' is only here for easier translations. It needs to be manually copied to ModDesc.XML later. -->
+	<description><![CDATA[Auto Combine]]></description>
+
+	<texts>
+		<!--AutoCombine helpPanel text-->
+		<text name="AC_COMBINE_TXT_START"                           text="AutoCombine Activo"/>
+		<text name="AC_COMBINE_TXT_STOP"                            text="AutoCombine Inactivo"/>
+		<text name="AC_COMBINE_TXT_WORKWIDTH"                       text="ancho:"/>
+		<text name="AC_COMBINE_SWAP_SIDE"                           text="giro dcha/izda"/>
+		<text name="AC_COMBINE_ENABLE"                              text="AutoCombine Activar/Desactivar"/>
+		<text name="AC_COMBINE_UTURN_ON_OFF"                        text="cambiar modo AutoCombine"/>
+		<text name="AC_COMBINE_STEERING"                            text="dirección manual"/>
+		<text name="AC_COMBINE_STEERING_ON"                         text="dirección manual [on]"/>
+		<text name="AC_COMBINE_STEERING_OFF"                        text="dirección manual [off]"/>
+		<text name="AC_COMBINE_CONTINUE"                            text="continuar"/>
+		<text name="AC_COMBINE_TXT_ACTIVESIDELEFT"                  text="lado activo: IZDO"/>
+		<text name="AC_COMBINE_TXT_ACTIVESIDERIGHT"                 text="lado activo: DCHO"/>
+
+		<text name="AC_COMBINE_WAITMODE_ON"                         text="modo descarga [parado]"/>
+		<text name="AC_COMBINE_WAITMODE_OFF"                        text="modo descarga [andando]"/>
+		<!--<text name="AC_COMBINE_WAITMODE_ON_EXPLANATION"         text="combine descarga en parado"/>
+		<text name="AC_COMBINE_WAITMODE_OFF_EXPLANATION"            text="combine descarga andando"/>-->		
+		<text name="AC_COMBINE_COLLISIONTRIGGERMODE_ON"             text="distancia seguridad esta Activada"/>
+		<text name="AC_COMBINE_COLLISIONTRIGGERMODE_OFF"            text="distancia seguridad esta Desactivada"/>
+		<!--<text name="AC_COMBINE_COLLISIONTRIGGER_ON_EXPLANATION" text="(combine guarda la distancia con vehiculos)"/>
+		<text name="AC_COMBINE_COLLISIONTRIGGER_OFF_EXPLANATION"    text="(combine No guarda la distancia con vehiculos)"/>-->			
+			
+		<!--AutoCombine help text-->
+		<text name="AC_COMBINE_TEXTHELPPANELOFF"                    text="oculta info AutoCombine"/>
+		<text name="AC_COMBINE_TEXTHELPPANELON"                     text="mostrar info AutoCombine"/>
+		
+		<!--AutoCombine inputbinding text-->
+		<text name="AC_COMBINE_HELPPANEL"                           text="AutoCombine info ON/OFF"/>
+		<!--<text name="AC_COMBINE_STARTSTOP"                       text="AutoCombine ON/OFF"/>-->
+		<text name="AC_COMBINE_COLLISION_OTHER"                     text="colisión de frente"/>
+		<text name="AC_COMBINE_COLLISION_BACK"                      text="collision por detrás"/>
+		<text name="AC_COMBINE_WAITING_WEATHER"                     text="esperando a que mejore el tiempo"/>
+		<text name="AC_COMBINE_WAITING_TRAILER"                     text="esperando trailer"/>
+		<text name="AC_COMBINE_WAITING_DISCHARGE"                   text="descargando"/>
+		<text name="AC_COMBINE_WAITING_PAUSE"                       text="en pausa"/>
+		<text name="AC_COMBINE_UTURN_ON"                            text="AutoCombine mode [arriba/abajo]"/>
+		<text name="AC_COMBINE_UTURN_OFF"                           text="AutoCombine mode [en círculos]"/>
+		<text name="AC_COMBINE_REVERSE_ON"                          text="modo de giro [reculando]"/>
+		<text name="AC_COMBINE_REVERSE_OFF"                         text="modo de giro [amplio]"/>
+		<text name="AC_COMBINE_WIDTH_OFFSET"                        text="ancho offset"/>
+		<text name="AC_COMBINE_TURN_OFFSET"                         text="giro offset"/>
+		<text name="AC_COMBINE_ERROR"                               text="error"/>
+		<text name="AC_COMBINE_TXT_NEXTTURNSTAGE"                   text="ve al siguiente punto de giro"/>
+		<text name="AC_COMBINE_TXT_CP_ON"                           text="courseplay mode [on]"/>
+		<text name="AC_COMBINE_TXT_CP_OFF"                          text="courseplay mode [off]"/>
+		<text name="AC_AUTO_STEER"                                  text="Piloto automático"/>
+		<text name="AC_AUTO_STEER_ON"                               text="Piloto automático [on]"/>
+		<text name="AC_AUTO_STEER_OFF"                              text="Piloto automático [off]"/>
+		<text name="AC_COMBINE_PAUSE_ON"                            text="pausa [on]" />
+		<text name="AC_COMBINE_PAUSE_OFF"                           text="pausa [off]" />
+	</texts>
+</l10n>
